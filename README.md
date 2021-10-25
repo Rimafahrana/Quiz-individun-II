@@ -2,11 +2,14 @@
 
 1.jelaskan arti angka dari versi python di bawah ini
 
-![Screenshot (24)](https://user-images.githubusercontent.com/93031693/138674860-d4421dc1-7646-4c2f-bafd-017e3a521624.png)
+![WhatsApp Image 2021-10-25 at 17 55 22 (2)](https://user-images.githubusercontent.com/93031693/138684408-75afa473-bf8c-42f6-8a6f-0788a837ab2b.jpeg)
 
 jadi arti dari angka dalam downlond python 3.10.0 yaitu:
+
 a. angka 3 berarti ada perubahan besar dari python besaran selama 3 kali
+
 b. angka 10 berarti ada perubahan dari python yang bersifat kecil selama 10 kali pada python
+
 c. angka 0 berarti belum ada
 
 2.kegunaan setiap fungsi pada tools VS-code
